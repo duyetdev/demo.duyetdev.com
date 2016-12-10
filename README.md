@@ -1,6 +1,6 @@
-# @duyetdev demo site!
+# @duyetdev demo
 
-Hello world!
+Demo site by @duyetdev. Lastest update 12/2016.
 
 ----------------
 
