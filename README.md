@@ -1,6 +1,6 @@
 # @duyetdev demo
 
-Demo site by @duyetdev. Lastest update 12/2016.
+[Demo site](/about) by @duyetdev. Lastest update 12/2016.
 
 ----------------
 
