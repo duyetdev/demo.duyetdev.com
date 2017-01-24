@@ -12,6 +12,6 @@
 * [Arkadia](https://arkadia.duyetdev.com/) - Journey through an infinitely zooming floral landscape painting. By http://arkadia.xyz
 * [offline.duyetdev.com](https://offline.duyetdev.com/) - Under construction.
 * [md2html](/md2html) - Generate HTML from markdown string. Credit by [egoist](https://github.com/egoist/md2html)
-
+* [api.duyetdev.com](http://api.duyetdev.com) - duyetdev public API.
 ----------------
 by [duyetdev](http://duyetdev.com) 2016
