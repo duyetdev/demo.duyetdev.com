@@ -1,4 +1,4 @@
-# @duyetdev demo
+# @duyet demo
 
 [Demo site](/about) by @duyet. Lastest update 12/2016.
 
